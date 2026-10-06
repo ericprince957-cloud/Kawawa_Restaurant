@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kawawarestaurant.com/sitemap.xml
+
+# Kawawa Restaurant - Awkuzu's Premier Brunch Spot
+# https://kawawarestaurant.com
